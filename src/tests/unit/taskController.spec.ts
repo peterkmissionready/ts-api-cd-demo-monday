@@ -50,27 +50,6 @@ describe('getOneTask', () => {
 })
 
 describe('Calculate Risk Rating', () =>{
-  /*const inputs=["My only car accident was when I finished turning left, the car behind ended bumping the rear of my car.",
-    222222222,
-    "",
-    "        ",
-    "*-/+0(#@|]",
-    "Bump and crash",
-    "crashcrashcrash",
-    "2017 had 97 fatal crashes.",
-    null
-  ]
-
-  const outputs=["1",
-    "Error- not a string",
-    "Error- empty string",
-    "has only whitespace",
-    "Error- doesn't contain a letter",
-    "2",
-    "3",
-    "1"
-  ]
-  */
 
   test('what happened',() =>{
     expect(CalculateRiskRating("My only car accident was when I turned left, the car behind ended bumping the rear of my car")).toBe(1);
