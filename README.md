@@ -31,7 +31,7 @@
 <br />
 <div align="left">
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Mission 4, Task 5</h3>
 
 
 
@@ -99,55 +99,29 @@ You should already have NodeJS installed in your computer. If you don't, install
 
 ### Installation
 
-1. Drag and drop the files inside the downloaded zip to a folder of your choice.
+1. Drag and drop the folder inside the downloaded zip to a folder of your choice, then navigate to the "ts-api-cd-demo-monday-main" directory you have just extracted using the terminal or a command prompt.
 
-2. Type
-`npm init -y` on the current folder, where you extracted the files.
+2. Type `npm install` in this command prompt.
 
 3. Type
-`npm install express cors lodash uuid` on terminal.
-This should install 4 packages required to host localhost:3000/ on the server, the answer to Task 7.
+`npm run build` on terminal. This will install all the necessary dependencies.
 
-4. Type 
-`npm install -D jest` on terminal.
-This should install jest required to perform unit testing on local directory, the answer to Task 6.
 
-5. Edit package.json (which was created after you first typed `npm install...`) so that the "scripts" variable
-will look like the following:
-
-`...
-"scripts": {
-	"start": "node index.js",
-	"test": "jest"
-},
-...`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Usage
 
 
-1. Task 7- To run the local server on port 3000, type
-`npm start`
-you will be able to view the server at http://localhost:3000/risk/YOUR_SENTENCE
-replace YOUR_SENTENCE with any sentence you can think of- it can be any string other than whitespace or an empty string or it won't run.
-If it does run, it will return a count of words from [crash, bump, collide, scratch, smash], in JSON format. It will return
-`{
-	riskRating: c
-}`
-where `c` is the count of words from an array described above.
-2. Task 6- Type `yarn test` on the terminal. This will run tests I've implemented for Task 6.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+1. Type 
+`npm run test` next on this command prompt, you will see all the unit testing I have implemented for the Task 5.
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [17/05/2023] Uploaded relevant files for this Mission 3 Assignment.
-- [17/05/2023] Borrowed template for this repository.
+- [24/05/2023] Uploaded relevant files for this Mission 5 Assignment.
+- [24/05/2023] Borrowed template for this repository.
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
