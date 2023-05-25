@@ -70,8 +70,7 @@
   <img src="screenshot.jpg" style="width:70vw;height:52.5vw"></img><br/>
   Mission 4- Task 5 work.</br></br>
 
-</br>
-This tutorial helped me for Task 7- https://www.youtube.com/watch?v=TcvOgwQPsSo.
+
 </br></br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
