@@ -68,7 +68,7 @@
 ## About The Project
 </br>
   <img src="screenshot.jpg" style="width:70vw;height:52.5vw"></img><br/>
-  Mission 3- Task 6, 7 work.</br></br>
+  Mission 4- Task 5 work.</br></br>
 
 </br>
 This tutorial helped me for Task 7- https://www.youtube.com/watch?v=TcvOgwQPsSo.
