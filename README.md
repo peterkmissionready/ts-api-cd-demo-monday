@@ -104,7 +104,7 @@ You should already have NodeJS installed in your computer. If you don't, install
 2. Type `npm install` in this command prompt.
 
 3. Type
-`npm run build` on terminal. This will install all the necessary dependencies.
+`npm run build` on the command prompt. This will install all the necessary dependencies.
 
 
 
