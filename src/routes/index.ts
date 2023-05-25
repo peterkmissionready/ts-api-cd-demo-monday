@@ -1,5 +1,5 @@
 import express from 'express'
-import * as taskController from '../controllers/taskController'
+import * as taskController from '../controllers/RiskCalculator'
 
 const router = express.Router()
 
