@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 </br>
-  <img src="screenshot.jpg" style="width:70vw;height:52.5vw"></img><br/>
+  <img src="images/screenshot.jpg" style="width:70vw;height:52.5vw"></img><br/>
   Mission 4- Task 5 work.</br></br>
 
 
